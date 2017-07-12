@@ -1,7 +1,7 @@
 <?php 
-include 'view/BerandaUI.php';
+include 'view/Berandalogud.php';
 
-$brd = new BerandaUI();//brd adalah objek dari kelas beranda UI objek
+$brd = new Berandalogud();//brd adalah objek dari kelas beranda UI objek
 
 $brd->tampilLengkap();
 
