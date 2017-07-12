@@ -4,19 +4,15 @@ require_once 'viewlogud.php';
 /**
 * 
 */
-class barangUI extends viewlogud
+class Berandalogud extends viewlogud
 {
 	
-	public function tampilBarang()
+	public function tampilLengkap()
 	{
-		include_once 'model/barang.php';
+		//i
+		include_once 'pages/Beranda.php';
 
-		$brt = new barang();
-
-		$isi_barang = $brt->ambilbarang();
-
-		include_once 'pages/listbarang.php';
-		$this->end();
+		$this->end();//this funsinya untuk meghentkan fungsi di kelasnya dan fungsi end ada di view
 	}
 }
 

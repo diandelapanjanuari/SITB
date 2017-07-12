@@ -4,12 +4,12 @@ require_once 'viewlogud.php';
 /**
 * 
 */
-class barangUI extends viewlogud
+class Utamalogud extends viewlogud
 {
 	
 	public function tampilBarang()
 	{
-		include_once 'model/barang.php';
+		include_once 'model/Barang.php';
 
 		$brt = new barang();
 
