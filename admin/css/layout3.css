@@ -1,0 +1,73 @@
+    body {
+    font-family: Verdana;
+    margin: 0;
+    padding: 0;
+    background-color:#dcdcdc;
+    }
+
+    #container {
+    width: 100%;
+    margin: auto;
+    border: 1px solid #000;
+    background-color:#dcdcdc;
+    }
+
+    #header {
+    min-height: 100px;
+    border: 1px solid #000;
+    background-color: #8A8A8A;
+
+    }
+
+    #kiri {
+    float: left;
+    width: 170px;
+    margin: 10px 0;
+    border: 1px solid #000;
+    background-color:#CCCCCC;
+    min-height: 222px;
+    }
+
+    #tengah {
+    float: left;
+    width: 250px;
+    min-height: 222px;
+    margin: 10px;
+    border: 1px solid #000;
+    background-color:#CCCCCC;
+    align-content: center;
+    }
+
+    #kanan {
+    float: left;
+    width: 67%;
+    margin: 10px 0;
+    border: 1px solid #000;
+    background-color:#CCCCCC;
+    min-height: 222px;
+    }
+
+    #footer {
+    height: 40px;
+    border: 1px solid #000;
+    clear: both;
+   
+    }
+
+    #admin{
+        height: 90px;
+    }
+    .tabel {
+        border: 3px solid #000;
+        align-content: center;
+        height: 100px;
+        width: 400px;
+        font: center;
+    }
+
+.keluar {
+  float: right;
+}
+.halaman{
+    text-align: center;
+}

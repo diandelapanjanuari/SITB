@@ -1,0 +1,112 @@
+#input {
+	color: purple;
+  font-size: 15px;
+  min-height: 10px;
+  float: center;
+  border-radius: 10px; 
+}
+.well {
+  min-width: 10px;
+  bottom: center;
+  margin: 50px auto;
+  background-color: black;
+
+}
+h1	{
+	background-color: #BDB76B;
+}
+body {
+  font-family: times;
+}#header{
+	background-color: #DEB887;
+	width: 1025pt;
+	height: 100pt;
+}
+#gambar {
+  height: 1px;
+  float: left;
+}
+.keluar {
+  float: right;
+}
+#admin{
+	min-height: 100px;
+}
+.profile {
+  float: left;
+  height: 10px;
+}
+#tengah{
+	min-height:300px;
+	width: 100px;
+	padding:10px;
+	background-color:#CCCCCC;
+	margin:10px 290px 0 290px;
+}
+#kanan{
+	height:300px; 
+	background-color:#CCCCCC;
+	float:right;
+	width:250px;
+	padding: 10px;
+}
+
+#menu-kiri{
+	float: left;
+	text-align: center;
+	min-height:230px;
+	padding:10px;
+	background-color:#BDB76B;
+	width:250px;
+	margin-top:1px;
+}
+.tabel-ucer {
+	width: 600px;
+	align-content: center;
+}
+.simpan {
+	float: left;
+}
+#full{
+	width:990px;
+	margin:0 auto;
+}
+.gambar {
+  margin: 50px auto;
+}
+.tabel {
+	border: 1px;
+	border-color: black;
+	height: 175px;
+	float: center;
+	border-radius: 8px;
+	background-color: #CCCCCC;
+
+}
+#page-wrapper{
+	min-height: 200px;
+}
+#sidebar {
+	height: 30px;
+}
+.tr {
+	align-content: center;
+	margin: 50px auto;
+	border-radius: 8px;
+	font-size: 20px;
+	background-color: #FFE4B5;
+	border-color: #FFE4B5;
+}
+
+.GAMBAR {
+  height: 1px;
+  float: left;
+  margin: 20px 20px 20px 30px;
+}
+
+.barang {
+  float: left; 
+  background-color: #669999;
+  border-radius: 6px;
+  margin: 0px 0px 20px 20px; 
+}
