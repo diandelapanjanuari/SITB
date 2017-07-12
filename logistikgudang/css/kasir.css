@@ -1,0 +1,138 @@
+#input {
+	color: purple;
+  font-size: 15px;
+  min-height: 10px;
+  float: center;
+  border-radius: 10px; 
+}
+.well {
+  width: 80%;
+  bottom: center;
+  margin: 50px auto;
+  float: right;
+  border-radius: 10px;
+  min-width: 10px;
+ 
+
+
+}
+#tanggal {
+  margin: 10px;
+  float: left;
+}
+.simpan {
+  margin: 20px;
+}
+body {
+  background-color: #333333;
+}
+#hasil{
+  float: center;
+}
+#gambar {
+  height: 1px;
+  float: left;
+}
+#total {
+  float: right;
+}
+.hapus {
+  height: 20px
+}
+.edit{
+  height: 20px;
+}
+.keluar {
+  float: right;
+}
+.gambar {
+  margin: 50px auto;
+}
+
+#profile {
+  float: right;
+  height: 10px;
+}
+#tanggal{
+  float: left;
+}
+.barang {
+  float: left; 
+  background-color: #669999;
+  border-radius: 6px;
+  margin: 0px 0px 20px 20px; 
+}
+#pelanggan{
+  float: right;
+}#input {
+  color: purple;
+  font-size: 15px;
+  min-height: 10px;
+  float: center;
+  border-radius: 10px; 
+}
+#header{
+  background-color: black;
+
+  height: 100pt;
+}
+.GAMBAR {
+  height: 1px;
+  float: left;
+  margin: 20px 20px 20px 30px;
+}
+.keluar {
+  float: right;
+}
+#admin{
+  min-height: 80px;
+}
+.profile {
+  float: left;
+  height: 10px;
+}
+#menu-kiri{
+  float: left;
+  text-align: center;
+  min-height:300px;
+  padding:10px;
+  width:200px;
+  margin-top:1px;
+  background-color: 
+}
+.tabel-ucer {
+  width: 600px;
+  align-content: center;
+}
+.simpan {
+  float: left;
+}
+.gambar {
+  margin: 50px auto;
+}
+.tabel {
+  border: 2px;
+  border-color: black;
+  height: 175px;
+  float: center;
+  border-radius: 8px;
+  background-color: #CCCCCC;
+
+}
+#page-wrapper{
+  min-height: 1000px;
+ 
+  color: white;
+}
+#sidebar {
+  height: 30px;
+}
+.tr {
+  align-content: center;
+  margin: 50px auto;
+  border-radius: 8px;
+  font-size: 20px;
+  background-color: #FFE4B5;
+  border-color: #FFE4B5;
+}
+

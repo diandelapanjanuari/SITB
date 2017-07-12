@@ -1,0 +1,55 @@
+#input {
+	color: purple;
+  font-size: 15px;
+  min-height: 10px;
+  float: center;
+  border-radius: 10px; 
+}
+.well {
+  min-width: 100px;
+  bottom: center;
+  margin: 50px auto;
+  float: center;
+  border-radius: 10px;
+
+}
+#tanggal {
+  margin: 10px;
+  float: left;
+}
+.simpan {
+  margin: 20px;
+}
+body {
+  background-color:#dcdcdc;
+}
+#hasil{
+  float: center;
+}
+#gambar {
+  height: 1px;
+  float: left;
+}
+#total {
+  float: right;
+}
+.hapus {
+  height: 20px
+}
+.edit{
+  height: 20px;
+}
+.keluar {
+  float: right;
+}
+#profile {
+  float: right;
+  height: 10px;
+}
+#kaki {
+  float: none;
+}
+
+.gambar {
+  margin: 50px auto;
+}

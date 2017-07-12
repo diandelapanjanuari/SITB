@@ -1,0 +1,25 @@
+h1 {
+	font-family: times;
+	font-size: 50px;
+}
+#kanan{
+	background-color: #b8b8b8;
+	min-height: 200px;
+	width: 50%;
+	float: right;
+}
+#tabel{
+	float: left;
+	background-color: #e8e8e8;
+}
+ul {
+	margin: 50px;
+}
+li {
+	margin: 20px;
+	list-style: none;
+}
+#ok{
+	margin: 50px auto;
+	
+}

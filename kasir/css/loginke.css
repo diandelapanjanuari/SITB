@@ -1,0 +1,31 @@
+#pilihan {
+	width: 30%;
+	height: 300px;
+	text-align:center;
+	margin: 50px auto;	
+	padding-top: 100px;	
+}
+
+li {
+	list-style-type: none;
+}
+
+h1 {
+	padding-top: 50px;
+	font-style: bold;
+	font-size: 70px;
+	text-align: center;
+	height: 10px;
+	color:  #700000;
+
+}
+#simpel a {
+	color: white;
+    display: block;
+    text-decoration: none;
+    background: linear-gradient(-45deg, #0044a1, #005ddc);
+    border-bottom: 1px solid #FFF;
+    width: 300px;
+
+
+}
