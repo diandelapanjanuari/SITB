@@ -5,12 +5,12 @@
 */
 
 include_once 'Model.php';
-class barang extends model
+class Barang extends Model
 {
 	
 	public function getDataBarang()
 	{
-		$query = $this->db->prepare("SELECT * FROM barang");
+		$query = $this->db->prepare("SELECT * FROM Barang");
     	$query->execute();
     	$data = $query->fetchAll();
 

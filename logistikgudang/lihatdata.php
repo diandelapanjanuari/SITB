@@ -4,6 +4,6 @@ include 'view/Berandalogud.php';
 
 $brd = new Berandalogud();
 
-$brd->tampilBerita();
+$brd->tampilBarang();
 
  ?>

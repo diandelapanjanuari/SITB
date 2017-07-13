@@ -13,7 +13,7 @@ class viewlogud
 	{
 		include_once 'template/navigasibarang.php';
 		include_once 'template/sidebarbarang.php';
-		// include_once 'content.php';
+		//include_once 'content.php';
 		
 	}
 

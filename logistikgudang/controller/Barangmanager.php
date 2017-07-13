@@ -4,10 +4,10 @@
 */
 include_once 'Controller.php';
 
-class BarangManager extends Controller
+class BarangManager extends Controller 
 {
 	
-	public function getDaftarKategori()
+	public function getDaftarBarang()
 	{
 		include_once 'model/Kategori.php';
 		$kat  = new Barang();
@@ -27,20 +27,19 @@ class BarangManager extends Controller
 		$harga = $_POST ['harga'];
 		$stok = $_POST ['stok'];
 		
-		$pesan = $mbarang->(,$judul,$isi,$id_kategori);
+		$pesan = $mbarang->(,$kode_barang,$nama_barang,$merek_barang,$satuan,$$harga,$stok);
 
 		return $pesan;
 
 	}
-///PEMBUATAN FUNCTION MIULAI
-	private function getDataUntukPerubahan(){
-		#ISI
+	private function getDataEditBarang(){
+		
 	}
 	
-	public function ubah_berita(){
-		#ISI
+	public function MenambahDataBarang(){
+		
 	}
-//SELESAI
+
 }
 }
 

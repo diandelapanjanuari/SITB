@@ -6,5 +6,6 @@
 					<a href="logistik.html"><input type="button" name="beranda" value="Beranda"></a><br><br>
 					<a href="barang.html"><input type="button" name="data-ucer" value="pendataan Barang"></a><br><br>
 					<a href="suplai.html"><input type="button" name="data-barang" value="Transaksi"></a><br><br>
-				</div>		
+				</div>	
+					
 			</div>

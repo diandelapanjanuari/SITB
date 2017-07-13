@@ -27,21 +27,18 @@ class Barangmanager extends Controller
 		$harga = $_POST ['harga'];
 		$stok = $_POST ['stok'];
 		
-		$pesan = $mbarang->(,$judul,$isi,$id_kategori);
+		$pesan = $mbarang->(,$kode_barang,$nama_barang,$merek_barang,$satuan,$$harga,$stok);
 
 		return $pesan;
 
 	}
-///PEMBUATAN FUNCTION MIULAI
-	public function getDataUntukPerubahan(){
-		#ISI
+	private function getDataEditBarang(){
+		
 	}
 	
-	public function ubah_berita(){
-		#ISI
+	public function MenambahDataBarang(){
+		
 	}
-//SELESAI
-}
 }
 
  ?>
