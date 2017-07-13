@@ -1,11 +1,4 @@
-<div id="page-wrapper">
-				<div id="page-header" >
-				Selamat datang di halaman admin
-				</div>
-				<img height="25 px" src="gambar/profile.png">
-				<a href="profile.html">Profile</a>
-				<br><br>
-				<div>
+<div>
 
 					<table class="tabel" border="2" width="500px" style="text-align: center;">
 						<tr>
@@ -31,3 +24,11 @@
 					</table>
 				</div>
 			</div>
+		</div>
+</div>
+</body>
+</html>
+
+
+
+                    

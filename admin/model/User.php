@@ -5,12 +5,12 @@
 */
 
 include_once 'Model.php';
-class laporan extends model
+class User extends model
 {
 	
-	public function getDataLaporan()
+	public function getDataUser()
 	{
-		$query = $this->db->prepare("SELECT * FROM laporan");
+		$query = $this->db->prepare("SELECT * FROM User");
     	$query->execute();
     	$data = $query->fetchAll();
 

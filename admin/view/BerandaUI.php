@@ -4,13 +4,13 @@ require_once 'View.php';
 /**
 * 
 */
-class BerandaUI extends View
+class BerandaUI extends view
 {
 	
 	public function tampilLengkap()
 	{
-		//i
-		include_once 'pages/beranda.php';
+		
+		include_once 'pages/Beranda.php';
 
 		$this->end();//this funsinya untuk meghentkan fungsi di kelasnya dan fungsi end ada di view
 	}

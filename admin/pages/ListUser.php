@@ -1,7 +1,7 @@
 <table class="table table-bordered">
 	<thead>
 		<tr>
-			<th>#</th>
+			<th>No</th>
 			<th>Id User</th>
 			<th>Nama</th>
 			<th>Alamat</th>
@@ -20,3 +20,4 @@
 		<?php } ?>
 	</tbody>
 </table>
+

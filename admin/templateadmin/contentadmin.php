@@ -59,34 +59,3 @@
 </div>
 
 
-<script type="text/javascript">
-	
-	function kasir(){
-		alert('ID_User: H1101151012		Nama: Dian lestari	Alamat: sungai kakap	No_Telp	: 085387621221')
-	}
-
-	function suplier(){
-		alert('ID_User: H1101151011		Nama: Tya indriani	Alamat:	Tanray	No_Telp: 081287643521')
-	}
-
-	function menejer(){
-		alert('ID_User: H1101151043		Nama: Lupita Aisyah	Alamat:	Tanray	No_Telp: 082153498749')
-	}
-
-	function logistik(){
-		alert('ID_User: H1101151005		Nama: Marsyanda	Alamat: pontianak kota	No_Telp: 085387621221')
-	}
-
-
-function hapus(){
-var pilihan = confirm("Apakah anda setuju?");
-if (pilihan == true) {
-	alert('Anda berhasil menghapus data');
-} else {
-
-};
-}
-
-</script>
-</body>
-</html>
