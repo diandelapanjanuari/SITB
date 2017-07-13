@@ -11,7 +11,7 @@
 		</tr>
 	</thead>
 	<tbody>
- <?php foreach ($isi_berita as $ib) { ?>
+ <?php foreach ($isi_barang as $ib) { ?>
 		<tr>
 			<td>1</td>
 			<td><?= $ib['kode_barang'] ?></td>

@@ -4,7 +4,7 @@
 * 
 */
 
-include_once 'Model.php';
+include_once 'model.php';
 class barang extends model
 {
 	

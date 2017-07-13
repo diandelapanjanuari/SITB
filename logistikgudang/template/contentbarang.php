@@ -1,4 +1,7 @@
-<div id="page-wrapper">
+<div>
+<div>
+<div>
+  <div id="page-wrapper">
 				<div id="page-header" >
 				<h2>Selamat datang di halaman Logistik Gudang</h2>
 				</div>
@@ -127,4 +130,4 @@ function tampilkan(){
 }
 </script>
 </body>
-</html>
+ ?>
