@@ -3,7 +3,7 @@
 * 
 */
 include_once 'controller.php';
-class laporanControl extends controller
+class dataControl extends Controller
 {
 	
 	public function getDaftarKategori()

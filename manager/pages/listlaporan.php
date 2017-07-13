@@ -12,9 +12,9 @@
  <?php foreach ($isi_berita as $ib) { ?>
 		<tr>
 			<td>1</td>
-			<td><?= $ib['judul'] ?></td>
-			<td><?= $ib['date'] ?></td>
-			<td><?= $ib['nama_laporan'] ?></td>
+			<td><?= $ib['no_laporan'] ?></td>
+			<td><?= $ib['tanggal'] ?></td>
+			<td><?= $ib['judul_laporan'] ?></td>
 			<td><?= $ib['isi'] ?></td>
 		</tr>
 		<?php } ?>

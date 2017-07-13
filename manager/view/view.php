@@ -11,15 +11,18 @@ class View
 
 	function __construct()//construct adalah fungsi yang pertama dijalankan ketika pertama kali di buat
 	{
-		include_once 'tamplatemanager/headermanager.php';
-		include_once 'tamplatemanager/navigasimanager.php';
+		//include_once 'templatemanager/headermanager.php';
+		include_once 'templatemanager/navigasimanager.php';
 		include_once 'templatemanager/sidebarmanager.php';
-		include_once 'templatemanager/contentmanager';
+		include_once 'templatemanager/contentmanager.php';
 	
 		
 	}
 
-	protected function end() {}
+	protected function end() 
+	{
+
+	}
 	
 }
 
