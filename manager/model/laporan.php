@@ -4,8 +4,8 @@
 * 
 */
 
-include_once 'Model.php';
-class laporan extends model
+include_once 'model.php';
+class laporan extends Model
 {
 	
 	public function getDataLaporan()
