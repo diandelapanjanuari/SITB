@@ -1,7 +1,7 @@
 <?php 
-include_once 'view/BeritaUI.php';
+include_once 'view/Berandalogud.php';
 
-$brt = new BeritaUI();
+$brt = new Berandalogud();
 
 $brt->tampilFormBarang();
  

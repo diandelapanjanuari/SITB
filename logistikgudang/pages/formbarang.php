@@ -20,7 +20,7 @@
 		  	<div class="col-sm-10">
 			  	<select name="kategori" id="kategori" class="form-control">
 			  	<?php foreach ($daftar_barang as $dk): ?>
-			  		<option value="<?php echo $dk['kode_barang'] ?>"><?php echo $dk['nama_kategori'] ?></option>
+			  		<option value="<?php echo $dk['kode_barang'] ?>"><?php echo $dk['nama_barang'] ?></option>
 			  	<?php endforeach ?>
 			  	</select>
 		  	</div>
@@ -34,3 +34,4 @@
 		</form>
 	</div>
 </div>
+

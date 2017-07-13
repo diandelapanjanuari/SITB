@@ -9,7 +9,7 @@ class viewlogud
 	public $subtitle;
 	public $content;
 
-	function __construct()//construct adalah fungsi yang pertama dijalankan ketika pertama kali di buat
+	function __construct()
 	{
 		include_once 'template/navigasibarang.php';
 		include_once 'template/sidebarbarang.php';
